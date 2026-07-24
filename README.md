@@ -9,5 +9,7 @@ This repository contains my Python learning journey. I'm practicing Python step 
 
 - String Slicing
 - String Methods
+- Lists
+- List Methods
 
 More topics and projects will be added as I continue learning.
