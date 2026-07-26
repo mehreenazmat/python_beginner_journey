@@ -13,5 +13,7 @@ This repository contains my Python learning journey. I'm practicing Python step 
 - List Methods
 - Tuples
 - Tuple Methods
-
+- Dictionaries
+- Dictionary Methods
+  
 More topics and projects will be added as I continue learning.
