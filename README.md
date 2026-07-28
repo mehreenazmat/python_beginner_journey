@@ -17,5 +17,16 @@ This repository contains my Python learning journey. I'm practicing Python step 
 - Dictionary Methods
 - Sets
 - Set Methods
-  
+- Conditional Statements
+  - if Statement
+  - else Statement
+  - elif Statement
+  - Nested if
+  - Even/Odd Checker
+  - Simple Calculator
+  - Greatest of Four Numbers
+  - Student Pass/Fail Checker
+  - Spam Comment Detector
+  - Username Length Checker
+  - Name Search in a List  
 More topics and projects will be added as I continue learning.
