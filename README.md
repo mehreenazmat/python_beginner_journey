@@ -28,5 +28,15 @@ This repository contains my Python learning journey. I'm practicing Python step 
   - Student Pass/Fail Checker
   - Spam Comment Detector
   - Username Length Checker
-  - Name Search in a List  
+  - Name Search in a List
+- Loops
+  - for Loop
+  - while Loop
+  - Dictionary Traversal
+  - List Traversal
+  - range()
+  - for...else
+  - break
+  - continue
+  - pass
 More topics and projects will be added as I continue learning.
