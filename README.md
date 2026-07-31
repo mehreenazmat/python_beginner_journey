@@ -34,6 +34,7 @@ This repository contains my Python learning journey. I'm practicing Python step 
   - while Loop
   - Dictionary Traversal
   - List Traversal
+  -Patterns
   - range()
   - for...else
   - break
