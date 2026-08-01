@@ -35,7 +35,18 @@ This repository contains my Python learning journey. I'm practicing Python step 
   - Dictionary Traversal
   - List Traversal
   -Patterns
-  - range()
+- Functions
+  - Function Definition
+  - Parameters
+  - Default Parameters
+  - Return Statement
+  - Multiplication Table
+  - Square of a Number
+  - Even Number Checker
+  - Largest of Three Numbers
+  - Factorial (Recursion)
+  - Vowel Counter
+  - Reverse String
   - for...else
   - break
   - continue
