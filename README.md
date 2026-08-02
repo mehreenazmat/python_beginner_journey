@@ -51,4 +51,11 @@ This repository contains my Python learning journey. I'm practicing Python step 
   - break
   - continue
   - pass
+- File Handling
+  - Reading Files
+  - Writing Files
+  - Appending Files
+  - Reading Files Line by Line
+  - Exception Handling (`try`/`except`)
+  - Log File Practice
 More topics and projects will be added as I continue learning.
