@@ -1,0 +1,4 @@
+Name: John
+Course: Python
+City: Florida
+Status: Active
